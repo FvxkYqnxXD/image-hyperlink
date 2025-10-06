@@ -9,5 +9,7 @@
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-    border: #88ff94;
+    border-radius: 10%;
+    border-color: #88ff94;
+    border-style: solid;
 }
