@@ -5,6 +5,9 @@
 }
 
 .cutekitten {
-    width: 250;
-    height: 250;
+    display: block;
+    width: 250%;
+    height: 250%;
+    margin-left: auto;
+    margin-right: auto;
 }
